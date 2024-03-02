@@ -1,9 +1,9 @@
 
 ## Hey there 👋
 
-- 📲 I’m a Mobile Developer with over 3 years of experience creating awesome applications.
+- 📲 Mobile Developer | 3+ years of experience.
 
-- 🚀 Enjoy learning about design patterns and clean architecture.
+- 🚀 Passionate about design patterns & clean architecture.
 
 - :zap: Android, iOS and Flutter.
 
