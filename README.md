@@ -7,7 +7,7 @@
 
 - :zap: Android, iOS and Flutter.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barraganesteban/)
+- :mailbox: Let's connect on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barraganesteban/)
 
 - 💼 Check my portfolio: [![Linkedin Badge](https://img.shields.io/badge/Esteban%20Coder-purple?style=flat&)](https://meek-mandazi-206906.netlify.app/)
 
