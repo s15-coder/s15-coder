@@ -1,7 +1,7 @@
 
 ## Hey there 👋
 
-- 📲 Mobile Developer | 3+ years of experience.
+- 📲 Software Developer | 4+ years of experience.
 
 - 🚀 Passionate about design patterns & clean architecture.
 
